@@ -1,3 +1,7 @@
+#package
+import colorama
+import datetime
+#local
 import api.litelogger
 
 infolog=api.litelogger.infolog
